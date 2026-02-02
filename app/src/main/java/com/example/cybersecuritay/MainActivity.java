@@ -34,6 +34,11 @@ public class MainActivity extends AppCompatActivity {
         fakes.add(getDrawable(R.drawable.fake3));
         fakes.add(getDrawable(R.drawable.fake4));
         fakes.add(getDrawable(R.drawable.fake5));
+        fakes.add(getDrawable(R.drawable.fake6));
+        fakes.add(getDrawable(R.drawable.fake7));
+        fakes.add(getDrawable(R.drawable.fake8));
+        fakes.add(getDrawable(R.drawable.fake9));
+        fakes.add(getDrawable(R.drawable.fake10));
 
         ArrayList<Drawable> reals = new ArrayList<>();
         reals.add(getDrawable(R.drawable.real1));
